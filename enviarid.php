@@ -17,5 +17,3 @@ if(mysqli_query($mysqli,$sql)){
     echo"usuario nao cadastrado!".mysqli_connect_error($mysqli);
 
 };
-
-?>
